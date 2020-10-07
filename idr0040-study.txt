@@ -31,7 +31,7 @@ Study Person Address	Département de Microbiologie Fondamentale - Bâtiment Biop
 Study Person Roles	submitter
 				
 # Study License and Data DOI				
-Study License	CC-BY 4.0	
+Study License	CC BY 4.0	
 Study License URL	https://creativecommons.org/licenses/by/4.0/	
 Study Copyright	Pelet et al
 Study Data Publisher	University of Dundee
